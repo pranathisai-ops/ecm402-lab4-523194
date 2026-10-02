@@ -2,8 +2,7 @@
 # ECM402 Lab 4 — CNNs for Fashion-MNIST
 
 **Roll number:** 523194
-**GitHub:** https://github.com/<you>/ecm402-lab4-<rollnumber>
-
+**GitHub:** https://github.com/<you>/ecm402-lab4-523194
 ## Hardware
 - CPU: <your CPU>, 2 threads used
 - No GPU assumed
