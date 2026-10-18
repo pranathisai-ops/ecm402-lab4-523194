@@ -1,0 +1,9 @@
+variant,params,best_val_acc,best_epoch,sec_per_epoch,final_gap
+MLP baseline,52650,0.8914,14,11.59,0.04
+"CNN pool=max, blocks=2",55338,0.9085,14,12.48,0.0163
+"CNN pool=avg, blocks=2",55338,0.899,15,13.54,0.0134
+"CNN pool=none, blocks=2",55338,0.8992,14,11.89,0.0203
+"CNN pool=max, blocks=1",100874,0.9012,14,11.77,0.017
+"CNN pool=max, blocks=3",42090,0.9137,15,12.45,0.0162
+"CNN pool=max, blocks=4",62634,0.9077,15,12.62,0.0213
+"CNN pool=max, blocks=3 + augmentation",42090,0.8747,15,19.25,0.0079
